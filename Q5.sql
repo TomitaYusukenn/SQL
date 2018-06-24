@@ -1,0 +1,1 @@
+SELECT  item_name,item_price FROM item WHERE  item_id =1 OR item_id=4 OR item_id = 7;
